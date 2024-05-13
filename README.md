@@ -6,7 +6,7 @@ To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM 
 STM32 CUBE IDE, Proteus 8 simulator .
 ## Theory:
 
-![image](https://github.com/vasanthkumarch/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/36288975/2a4a795e-1674-4329-ae07-3f5e8d5073e2)
+<img src="https://github.com/vasanthkumarch/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/36288975/2a4a795e-1674-4329-ae07-3f5e8d5073e2" height="400" width="400">
 
 4×4 Keypad Module Pin Diagram
  
@@ -32,9 +32,11 @@ These Keypad modules are made of thin, flexible membrane material. The 4 x4 keyp
 All the above mentioned LCD display will have 16 Pins and the programming approach is also the same and hence the choice is left to you. 
 Below is the Pinout and Pin Description of 16x2 LCD Module:
 
-![image](https://user-images.githubusercontent.com/36288975/233858086-7b1a88a2-f941-475c-86c2-b3bae68bdf7e.png)
-![image](https://user-images.githubusercontent.com/36288975/233857710-541ac1c2-786c-4dfc-b7b5-e3a4868a9cb6.png)
-![image](https://user-images.githubusercontent.com/36288975/233857733-05df5dbf-1a1e-479e-85bb-8014a39ad878.png)
+<img src="https://user-images.githubusercontent.com/36288975/233858086-7b1a88a2-f941-475c-86c2-b3bae68bdf7e.png" height="400" width="400">
+
+<img src="https://user-images.githubusercontent.com/36288975/233857710-541ac1c2-786c-4dfc-b7b5-e3a4868a9cb6.png" height="400" width="400">
+
+<img src="https://user-images.githubusercontent.com/36288975/233857733-05df5dbf-1a1e-479e-85bb-8014a39ad878.png" height="400" width="400">
 
 4-bit and 8-bit Mode of LCD:
 
@@ -401,7 +403,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots of proteus  :
 
  ![Screenshot 2024-04-06 100622](https://github.com/Nagul71/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/118661118/505c9ee9-7ab1-4e28-a761-2c72efe77023)
-
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
